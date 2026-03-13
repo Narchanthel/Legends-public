@@ -49,6 +49,7 @@ class Defs:
         #{"name": "pauldrons_padding_fur", "min" : 1, "max" : 1, "layer": "attachment", "impactSound" : "leather", "invSound" : "cloth"},
         {"name": "pauldrons_padding_light", "min" : 1, "max" : 1, "layer": "attachment", "impactSound" : "leather", "invSound" : "cloth"},
         {"name": "pauldrons_protective_runes", "min" : 1, "max" : 1, "layer": "attachment", "impactSound" : "leather", "invSound" : "leather"},
+        {"name": "pauldrons_shoulderplates_heraldic", "min" : 1, "max" : 5, "layer": "attachment", "impactSound" : "leather", "invSound" : "leather", "front_back": True, "front" : [-47,-9,-39,3], "front_dead" : [2,44,-47,-5], "back": [23,49,-31,3], "back_dead": [-53,-31,-36,-2] },
         {"name": "pauldrons_skull_chain", "min" : 1, "max" : 1, "layer": "attachment", "impactSound" : "chain", "invSound" : "chain"},
         {"name": "pauldrons_spiked_chain", "min" : 1, "max" : 1, "layer": "attachment", "impactSound" : "chain", "invSound" : "chain"},
         {"name": "pauldrons_stag", "min" : 1, "max" : 1, "layer": "attachment", "impactSound" : "plate", "invSound" : "plate"},
